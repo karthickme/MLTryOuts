@@ -11,6 +11,10 @@ numpy = "*"
 matplotlib = "*"
 jupyter-contrib-nbextensions = "*"
 seaborn = "*"
+xgboost = "*"
+tensorflow = "*"
+pydot = "*"
+graphviz = "*"
 
 [dev-packages]
 
