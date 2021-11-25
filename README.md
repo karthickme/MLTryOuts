@@ -13,26 +13,11 @@
      - ML Pipeline for the entire process
   
 2. Will be working on a time series analysis
-3. Will be working on Titanic Dataset no surviver predicting
 
 ## Code Snippets
 
-- sklearn LabelEncoding
-- sklearn OrdinalEncoding
-- sklearn SimpleImputer
-- sklearn TrainTestSplit
+[Code Snippets](https://github.com/karthickme/MLTryOuts/blob/main/snippets/README.md)
 
 ## ML Bascis
 
-- Will be adding some details on the same
-
-## To learn
-
-- Pyspark
-- Tensorflow
-- OpenCV
-- DS related Mathematics
-
-## Area to fix in the Repo
-
-- Make all Snippets code working
+[ML Notes and documents](https://github.com/karthickme/MLTryOuts/blob/main/MLBasicInfo/README.md)

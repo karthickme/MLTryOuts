@@ -1,4 +1,4 @@
-# Basic ML Notes
+# Algorithms
 
 ## Classifiction Algorithms
 
