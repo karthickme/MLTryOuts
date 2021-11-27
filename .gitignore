@@ -23,3 +23,9 @@ ipython_config.py
 .vscode/
 00_*
 *.dat
+*.pkl
+ideas/
+*.zip
+*.log
+*.LOG
+data/03Temperature/
